@@ -1,0 +1,10 @@
+#output 
+{
+    background-color: blue;
+    border-radius: 10px;
+
+    border-top: 10px solid #204e39;
+padding: 10px;
+float: none;
+text-align: left;
+}
